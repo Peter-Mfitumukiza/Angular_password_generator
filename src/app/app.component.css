@@ -1,0 +1,15 @@
+.container{
+    margin-top: 3rem;
+    width: 32%;
+    /* border: 1px solid rgba(0, 0, 0, 0.5); */
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 3px #ccc;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+button{
+    margin: 0.5rem 0;
+}
