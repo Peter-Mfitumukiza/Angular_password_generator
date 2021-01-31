@@ -19,7 +19,7 @@ button{
     bottom: 0;
     left: 42%;
 }
- @media screen and (max-width: 540px){
+@media screen and (max-width: 540px){
     .container{
      width: 90%;
     }
@@ -30,3 +30,14 @@ button{
         left: 24%;
     }
  }
+
+ @media screen and (max-width:280px){
+     .footer{
+         left: 10%;
+     }
+ }
+ @media screen and (max-width:540px){
+    .footer{
+        left: 33%;
+    }
+}
