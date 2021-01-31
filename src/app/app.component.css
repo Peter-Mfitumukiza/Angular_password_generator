@@ -31,12 +31,12 @@ button{
     }
  }
 
- @media screen and (max-width:280px){
+ @media screen and (max-width:300px){
      .footer{
          left: 10%;
      }
  }
- @media screen and (max-width:540px){
+ @media screen and (min-width:540px) and (max-width:600px){
     .footer{
         left: 33%;
     }
